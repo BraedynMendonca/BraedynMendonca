@@ -17,7 +17,7 @@ languages
 toolchain
 ---------
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,git,github,linux,vscode,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,git,github,linux,vscode,vercel,supabase,raspberrypi" />
 </p>
 
 domains
