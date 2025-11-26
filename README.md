@@ -3,7 +3,7 @@ software • robotics • hardware
 
 ====================================================================
 
-building full-stack systems, autonomous robotics logic, and minimal
+building full-stack systems and minimal
 high-clarity interfaces.  
 
 ====================================================================
@@ -24,25 +24,16 @@ domains
 ------- 
 full-stack architecture  
 component-driven ui systems  
-low-noise, high-signal design  
+efficient, high-impact engineering  
 
 ====================================================================
 
-active focus
-------------
-advancing ui structure and state clarity  
-reducing complexity in full-stack workflows  
-engineering reliable, failure-resistant systems  
-
-====================================================================
 
 statistics
 ----------
-<p align="left">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=braedynmendonca&show_icons=true&theme=tokyonight&border_radius=3&hide_title=true&hide_rank=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braedynmendonca&layout=compact&theme=tokyonight&border_radius=3" />
-</p>
-
+<img src="https://img.shields.io/github/followers/braedynmendonca?style=for-the-badge&color=363636">
+<img src="https://img.shields.io/github/stars/braedynmendonca?style=for-the-badge&color=363636">
+<img src="https://img.shields.io/github/last-commit/braedynmendonca/braedynmendonca?style=for-the-badge&color=363636">
 
 ====================================================================
 
