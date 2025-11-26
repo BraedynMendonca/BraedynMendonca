@@ -39,8 +39,8 @@ engineering reliable, failure-resistant systems
 statistics
 ----------
 <p align="left">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=braedynm&show_icons=true&theme=tokyonight&border_radius=3&hide_title=true&hide_rank=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braedynm&layout=compact&theme=tokyonight&border_radius=3" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=braedynmendonca&show_icons=true&theme=tokyonight&border_radius=3&hide_title=true&hide_rank=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braedynmendonca&layout=compact&theme=tokyonight&border_radius=3" />
 </p>
 
 
