@@ -5,7 +5,6 @@ software • robotics • hardware
 
 building full-stack systems, autonomous robotics logic, and minimal
 high-clarity interfaces.  
-no noise. no excess. only engineering.
 
 ====================================================================
 
