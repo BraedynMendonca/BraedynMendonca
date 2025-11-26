@@ -31,7 +31,6 @@ efficient, high-impact engineering
 
 statistics
 ----------
-<img src="https://img.shields.io/github/followers/braedynmendonca?style=for-the-badge&color=363636">
 <img src="https://img.shields.io/github/stars/braedynmendonca?style=for-the-badge&color=363636">
 <img src="https://img.shields.io/github/last-commit/braedynmendonca/braedynmendonca?style=for-the-badge&color=363636">
 
