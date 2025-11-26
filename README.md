@@ -35,10 +35,7 @@ statistics
 <img src="https://img.shields.io/github/stars/braedynmendonca?style=for-the-badge&color=363636">
 <img src="https://img.shields.io/github/last-commit/braedynmendonca/braedynmendonca?style=for-the-badge&color=363636">
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=braedynmendonca&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=braedynmendonca&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=braedynmendonca&theme=tokyonight" />
 
 ====================================================================
 
