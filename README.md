@@ -3,8 +3,7 @@ software • robotics • hardware
 
 ====================================================================
 
-building full-stack systems and minimal
-high-clarity interfaces.  
+building full-stack applications
 
 ====================================================================
 
@@ -23,7 +22,7 @@ toolchain
 domains
 ------- 
 full-stack architecture  
-component-driven ui systems  
+component-driven UI 
 efficient, high-impact engineering  
 
 ====================================================================
